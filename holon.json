@@ -1,9 +1,10 @@
 {
     "version": "0.1",
-    "name": "Roberto Valenti",
-    "quote": "You never change things by fighting the existing reality.\nTo change something, build a new model that makes the existing model obsolete.",
-    "quoteauthor": "Buckminster Fuller",
-    "image": "roberto.png",
+    "name": "Matthew Slater",
+    "quote": "Blessed is he who has found his work, for he shall need no other blessing",
+    "quoteauthor": "Thomas Carlyle",
+    "image": "https://avatars.githubusercontent.com/u/1170956?v=4",
+    "ethaddress": "0x16B942C119D3e34ff8f801cf68EC6aA26F1dC494", 
     "holons" : 
     [
     { "id": "mylocations"},
